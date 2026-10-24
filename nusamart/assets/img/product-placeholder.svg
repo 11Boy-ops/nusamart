@@ -1,7 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="800" height="650" viewBox="0 0 800 650">
-  <rect width="800" height="650" fill="#f0f2eb"/>
-  <circle cx="400" cy="285" r="125" fill="#dfe7d9"/>
-  <path d="M340 330 400 225l60 105v66H340z" fill="#b6c9b8"/>
-  <path d="M360 330h80v44h-80z" fill="#eff5e9"/>
-  <text x="400" y="470" text-anchor="middle" font-family="Arial,sans-serif" font-size="26" fill="#547264">NusaMart</text>
-</svg>
