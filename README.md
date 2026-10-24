@@ -64,7 +64,8 @@ nusamart/
 ├── login.php                  # Login pelanggan
 ├── register.php               # Registrasi pelanggan
 ├── logout.php                 # Logout via POST + CSRF
-├── database.sql               # Skema dan data awal untuk phpMyAdmin
+├── sql
+    └── database.sql           # Skema dan data awal untuk phpMyAdmin
 ├── config/
 │   ├── db.php                 # Koneksi PDO ke MySQL
 │   └── init.php               # Inisialisasi session dan helper
