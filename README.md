@@ -27,7 +27,7 @@ Website e-commerce responsif menggunakan **HTML, CSS, JavaScript, PHP, dan MySQL
 1. Ekstrak folder `nusamart` ke `C:\xampp\htdocs\nusamart`.
 2. Buka XAMPP Control Panel, lalu jalankan **Apache** dan **MySQL**.
 3. Buka `http://localhost/phpmyadmin`.
-4. Pilih tab **Import**, klik **Choose File**, pilih file `database.sql` dari folder `nusamart`, lalu klik **Import/Go**.
+4. Pilih tab **Import**, klik **Choose File**, pilih file `database.sql` dari folder **sql** dalam folder `nusamart`, lalu klik **Import/Go**.
 5. Buka `http://localhost/nusamart/` di browser.
 6. Untuk memastikan autentikasi bekerja, pilih **Masuk** atau **Daftar**.
 
